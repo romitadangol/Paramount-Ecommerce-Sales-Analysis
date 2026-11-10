@@ -85,10 +85,11 @@ Explore the supporting documentation for this project:
 
 | File | Description |
 |---|---|
-| Excel Analysis Workbook | Complete Excel-based sales and financial analysis |
-| Executive Dashboard | Visual summary of key business performance indicators |
-| Project Analysis | Data preparation, methodology, and analytical approach |
-| Business Insights | Key findings and actionable business recommendations |
+| [Download Excel Workbook](Paramount_Ecommerce_Sales_Analysis%28cleaned%29.xlsx) | Complete sales and financial analysis workbook |
+| [View Executive Dashboard](Paramount%20Ecommerce%20Sales%20Analysis%20Executive%20Dashboard.png) | Visual summary of business performance |
+| [Project Analysis & Methodology](documentation/project-analysis.md) | Data preparation and analytical approach |
+| [Business Insights & Recommendations](documentation/business-insights.md) | Key findings and business recommendations |
+
 
 ## Skills Demonstrated
 
