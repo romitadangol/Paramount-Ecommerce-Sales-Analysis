@@ -72,8 +72,39 @@ The dashboard below presents an overview of sales performance, product and categ
 
 ![Paramount Ecommerce Sales Analysis Executive Dashboard](Paramount%20Ecommerce%20Sales%20Analysis%20Executive%20Dashboard.png)
 
-## Project Status
 
-Completed: Excel-based data analysis and executive dashboard.
 
-Upcoming: Portfolio documentation and presentation of business insights.
+## Project Documentation
+
+Explore the supporting documentation for this project:
+
+- [Project Analysis & Methodology](documentation/project-analysis.md)
+- [Business Insights & Recommendations](documentation/business-insights.md)
+
+## Project Files
+
+| File | Description |
+|---|---|
+| Excel Analysis Workbook | Complete Excel-based sales and financial analysis |
+| Executive Dashboard | Visual summary of key business performance indicators |
+| Project Analysis | Data preparation, methodology, and analytical approach |
+| Business Insights | Key findings and actionable business recommendations |
+
+## Skills Demonstrated
+
+- Data Cleaning & Preparation
+- Exploratory Data Analysis
+- Data Aggregation
+- Financial Analysis
+- Business Intelligence
+- Data Visualization
+- Excel Dashboard Development
+- Business Reporting
+- Analytical Problem-Solving
+
+## Author
+
+**Romita Dangol**
+
+BScIT Graduate | Data Analytics | Business Analysis | AI & Machine Learning
+
