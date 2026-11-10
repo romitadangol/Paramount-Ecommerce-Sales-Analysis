@@ -66,6 +66,12 @@ Product-level and monthly financial summaries may also differ in scope where tra
 - Executive dashboard.
 - Project documentation and business recommendations.
 
+## Executive Dashboard
+
+The dashboard below presents an overview of sales performance, product and category contributions, and monthly financial trends.
+
+![Paramount Ecommerce Sales Analysis Executive Dashboard](Paramount%20Ecommerce%20Sales%20Analysis%20Executive%20Dashboard.png)
+
 ## Project Status
 
 Completed: Excel-based data analysis and executive dashboard.
